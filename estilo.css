@@ -5,6 +5,20 @@
 
    .boa_noite{
 color: blue;
-font-weight: 250
    }
+   .bom_dia_2{
+    color: darkcyan;
+   }
+.interno{
+    color:black;
+    font-weight: 500;
+    font-family: monospace;
+    font-size: 25px;
+}
+.externa{
+    color: lime;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 40px;
 
+}
